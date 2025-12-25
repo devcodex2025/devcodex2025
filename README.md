@@ -147,6 +147,4 @@ I'm always open to interesting conversations, collaboration opportunities, and n
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
   
   **Thanks for visiting my profile! Happy coding! 🚀**
-  
-  ![](https://komarev.com/ghpvc/?username=devcodex2025&color=blueviolet&style=flat-square)
 </div>
