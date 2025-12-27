@@ -94,13 +94,6 @@ Check out my [repositories](https://github.com/devcodex2025?tab=repositories) to
 
 ---
 
-## 📈 Contribution Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 ## 💼 Professional Skills
 
 - **Software Development:** Full-stack development, API design, microservices architecture
