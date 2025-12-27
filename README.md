@@ -89,7 +89,7 @@ I'm a passionate software developer focused on building robust, scalable applica
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devcodex2025&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devcodex2025&theme=radical&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
