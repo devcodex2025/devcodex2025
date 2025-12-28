@@ -78,6 +78,7 @@ I'm a passionate software developer focused on building robust, scalable applica
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devcodex2025&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
+
 ---
 
 ## 🚀 Featured Projects
